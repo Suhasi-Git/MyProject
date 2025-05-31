@@ -46,7 +46,6 @@ public class Assignment_3 {
 			count++;
 		}
 		System.out.println("Number of digits: " +count);
-		
 	}
 
 }
